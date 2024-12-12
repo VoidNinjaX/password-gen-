@@ -21,10 +21,10 @@ Always exercise caution when downloading and running scripts from the internet. 
 This project is licensed under the MIT License.
 
 ## Author
-[Zulu studios inc]
+## Zulu studios inc
 
 ## Version
-1.0.1
+## 1.0.1
 
 ## Disclaimer
 This tool is for educational and ethical use only. The author is not responsible for any misuse or damage caused by this program.
@@ -39,7 +39,7 @@ LICENSE
 
 MIT License
 
-Copyright (c) [2024] [Zulu Studios inc]
+## Copyright (c) 2024 Zulu Studios inc
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
